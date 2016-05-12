@@ -1,5 +1,4 @@
-# WiW
-Wer ist Wer ???
+# WiW - Wer ist Wer ???
 
 # ...im Spiel des Lebens
 Günstlinge der Erkenntnis um die Bedeutung der eigen erbrachten geistigen Leistung werden an diesem Spiel besonders viel Spaß haben. Die zugrundeliegenden Informationen sind kausal authentisch, der Weg ist mathematisch replizierbar und in ihrer Eigenart ist die Verfügbarkeit so qualifiziert, daß es mit Köpfchen für mehr als nur spekulativ zirkulierende Ersatzbefriedigung reicht.
