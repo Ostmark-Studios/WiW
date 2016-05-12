@@ -9,5 +9,14 @@ In einfachen Worten ist es schlicht das Lernen aus kreativem Erkenntnisgewinn be
 # Wie liegen die Daten vor ???
 Diese Daten liegen als Text im Telegramm-Stil vor - ohne Interpunktion (meint Satzzeichen). Jede Zeile steht zumindestens für sich selbst. Es gibt jedoch Konstellationen von zeilenübergreifendem Zusammenhang. Das Primärvokabular besteht aus bekannten deutschen Vokabeln. Eine Zeile kann leer sein, ein Wort, eine Wortgruppe, einen Satz oder eine Summe mehrerer Dessen enthalten.
 
+# Wie werden die Informationen gewonnen ???
+Die Grundlage für dieses Spiel ist ein frei zugängliches Spielzeug zur Spracherkennung. Dabei wird eine Audioquelle aus 13 Perspektiven auf Inhalte abgetastet und entsprechende Ergebnisse landen dann Zeile für Zeile in einfachen Text-Dateien.
+
+# Wer kann mitspielen ???
+Geeignet ist dieses Spiel grundsätzlich für alle Altersklassen ab der fünften Klasse (10 Jahre). Nicht alle Inhalte sind dabei ideal dort aufgehoben. Deshalb ist empfohlen, dies als Gruppen und Familienspiel zu betrachten mit globalem Ausmaß. 
+
+# Was kann man gewinnen ???
+Einsicht und Aufschluß über Mittel, Methoden, Entscheidungen und Verläufe der Geschichte von Täuschen und Tarnen um den scheinbaren Verlust. Manche Rösser, ihre Reiter, ihre Namen, ihre Pfade, ihre Ziele werden ein raumerfüllendes Licht der  Geschichte sein.
+
 
 
