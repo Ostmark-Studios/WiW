@@ -16,7 +16,7 @@ Die Grundlage für dieses Spiel ist ein frei zugängliches Spielzeug zur Sprache
 Geeignet ist dieses Spiel grundsätzlich für alle Altersklassen ab der fünften Klasse (10 Jahre). Nicht alle Inhalte sind dabei ideal dort aufgehoben. Deshalb ist empfohlen, dies als Gruppen und Familienspiel zu betrachten, natürlich mit globalem Ausmaß. 
 
 # Was kann man gewinnen ???
-Einsicht und Aufschluß über Mittel, Methoden, Entscheidungen und Verläufe der Geschichte von Täuschen und Tarnen um den scheinbaren Verlust. Manche Rösser, ihre Reiter, ihre Namen, ihre Pfade, ihre Ziele werden ein raumerfüllendes Licht der  Geschichte sein.
+Einsicht und Aufschluß über Mittel, Methoden, Entscheidungen und Verläufe der Geschichte von Täuschen und Tarnen um den scheinbaren Verlust. Manche Rösser, ihre Reiter, ihre Namen, ihre Pfade, ihre Ziele werden ein raumerfüllendes Licht der  Geschichte sein. Es folgt kausaler Anschluß aus der soliden Erkenntnis der Geschichte an die Zukunft.
 
-
+Die Perspektive auf das Weltgeschehen aus 12 und 1 Paar Augen in 13 anonymen Phantomen. 
 
